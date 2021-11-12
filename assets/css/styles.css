@@ -1,0 +1,22 @@
+.heading ul {
+    text-decoration: none;
+    list-style: none;
+    color: pink;
+    list-style-type: none;
+    padding: 0;
+    /* Remove padding */
+    margin: 0;
+    /* Remove margins */
+    text-align: right;
+    border-bottom: 3px;
+    border-color: aqua;
+    background-color: antiquewhite;
+}
+
+.hero img {
+    width: 100%;
+}
+
+;
+
+}
